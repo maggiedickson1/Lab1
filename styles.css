@@ -30,3 +30,24 @@ ul li a{
     text-decoration: none;
     
 }
+
+.main{
+    display: flex;
+}
+
+.content{
+    width: 70%;
+    background-color: lightgray;
+    min-height: 500px;
+}
+
+.sidebar{
+    width: 30%;
+    background-color: dimgrey;
+    color: white;
+    min-height: 500px;
+}
+
+p{
+    margin: 20px;
+}
